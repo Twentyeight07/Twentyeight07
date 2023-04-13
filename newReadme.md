@@ -1,6 +1,10 @@
 <h1 align="center">Hi ✌🏻, I'm Eduardo</h1>
+<div align="center">
 
 ![MyBanner](./Assets/MyBanner.png)
+
+</div>
+
 
 <h3 align="center">Developer passionate about code</h3>
 
