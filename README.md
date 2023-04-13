@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<h1>Hi! I'm Eduardo ✌🏻</h1>
+</div>
 
 <!--
 **Twentyeight07/Twentyeight07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
