@@ -13,7 +13,7 @@
 - 📖 Self-taught
 - 💘 In love with JS
 
-- 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
+- 👨‍💻 All of my projects are available at [repos](https://github.com/Twentyeight07?tab=repositories)
 
 - 📫 How to reach me **eduardofreites1999@gmail.com**
 
