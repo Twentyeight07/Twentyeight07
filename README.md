@@ -10,7 +10,6 @@
 ## About Me
 
 - 💻 FullStack Developer
-- 📖 Self-taught
 - 💘 In love with JS
 
 - 👨‍💻 All of my projects are available at [repos](https://github.com/Twentyeight07?tab=repositories)
