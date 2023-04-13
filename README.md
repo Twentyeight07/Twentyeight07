@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi! I'm Eduardo ✌🏻</h1>
 </div>
-
+<img source="https://www.canva.com/design/DAFf_7czob8/gQngSKHN_Y2zEhXVEwZ5wg/watch?utm_content=DAFf_7czob8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 
 <!--
