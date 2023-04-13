@@ -2,6 +2,7 @@
 <h1>Hi, I'm Eduardo ✌🏻</h1>
 
 ![MyBanner](./Assets/MyBanner.png)
+
 </div>
 
 ## About Me
@@ -23,7 +24,13 @@
 - HTML
 - CSS
 
+
+### ⚙ GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twentyeight07&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 How to reach me
+
++ 📧 eduardofreites1999@gmail.com
 
 <!--
 **Twentyeight07/Twentyeight07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
